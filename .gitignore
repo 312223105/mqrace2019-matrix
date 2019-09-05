@@ -1,0 +1,25 @@
+# maven ignore
+target/
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+*.DS_Store
+Thumbs.db
+*.db
+
+
+# junit log files
+logs/
+log/
